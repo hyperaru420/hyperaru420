@@ -1,6 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,50:C74B92,100:6A5ACD&height=200&section=header&text=Hi%20there!%20I%27m%20Ariyan%20%F0%9F%91%8B&fontSize=36&fontColor=ffffff&fontAlignY=35&desc=AI%20%26%20ML%20Student%20%7C%20Full-Stack%20Developer%20%7C%20Hackathon%20Builder&descAlignY=55&descSize=16" width="100%"/>
+# 👋 Hi there, I'm Ariyan Ghosh
+
+![AI & ML Student](https://img.shields.io/badge/AI%20%26%20ML%20Student-FF6B6B?style=for-the-badge)
+![Full-Stack Developer](https://img.shields.io/badge/Full--Stack%20Developer-C74B92?style=for-the-badge)
+![Hackathon Builder](https://img.shields.io/badge/Hackathon%20Builder-6A5ACD?style=for-the-badge)
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=FF6B6B&center=true&vCenter=true&width=650&lines=Building+AI+products+%26+SaaS+apps+%F0%9F%9A%80;Open+Source+Enthusiast+%F0%9F%92%9A;Hackathon+Builder+%F0%9F%8F%86;Always+learning%2C+always+shipping+%E2%9A%A1" alt="Typing SVG" />
